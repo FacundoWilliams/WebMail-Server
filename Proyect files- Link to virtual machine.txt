@@ -1,0 +1,7 @@
+ ==> https://drive.google.com/open?id=1vJZWnAZtQeyQxB6AOfsxhq7-rEFnb0-h
+
+This file contains the virtual machine used for the WebMail server on Linux (Debian).
+Virtual Box is required to run it ==> https://www.virtualbox.org/
+///////////////////////////////////////////////////////////////////////////
+Este archivo contiene la maquina virtual utilizada para el servidor de correo WebMail en Linux(Debian).
+Para ejecutar la maquina virtual se requiere Virtual Box ==> https://www.virtualbox.org/
